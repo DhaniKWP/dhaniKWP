@@ -1,8 +1,5 @@
-👋 Hi, I'm **Dhani Kusuma Wardana Putra** — a passionate Software Engineering student (Semester 3) at **Institute Global**.
-
-I'm currently focused on mastering backend development using **Golang** and **Laravel**, with strong interest in building scalable APIs, clean architecture, and real-world projects. I actively sharpen my skills through hands-on projects, collaboration, and continuous learning.
-
-Tech stack I'm exploring: **Golang**, **Laravel**, **Docker**, **PostgreSQL**, **Git**, and more.
+👋 Hi, I'm **Dhani Kusuma Wardana Putra** 
+-*ORANG GANTENG DAN INTELEK*
 
 ---
 
