@@ -1,4 +1,10 @@
-👋 Hi, I'm **Dhani Kusuma Wardana Putra**
+# 👋 Halo! Saya Dhani Kusuma Wardana Putra
+
+Seorang pejuang kode yang lagi ngegas buat jadi **Fullstack Developer**!  
+Lagi rajin ngulik backend, frontend, sampai database — pokoknya gas terus sampai bisa bikin aplikasi dari nol sampe launching!  
+Pantang menyerah, semangat belajar, dan siap jadi developer andalan masa depan 💻🚀
+
+Let's build something awesome together!
 
 ---
 
