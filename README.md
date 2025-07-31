@@ -1,7 +1,7 @@
 👋 Hi, I'm **Dhani Kusuma Wardana Putra**
 
--- 
-**ORANG GANTENG DAN INTELEK*
+---
+*ORANG GANTENG DAN INTELEK*
 
 ---
 
